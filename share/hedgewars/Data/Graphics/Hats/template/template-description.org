@@ -1,0 +1,65 @@
+* animate-hedgehog.sh
+to create an animated gif images (dependency: sh, imagemagic)
+
+usage:
+./animate-hedgehog.sh j9obxi.png juggler.png
+- first image - hedgewars image (1 column)
+- second image - hat (1 column)
+- result: animated gif
+
+* hat-converter-1-to-2-row.sh
+to split one column (32x1024) into 2 (64x512) (dependency: sh, imagemagic)
+
+usage:
+./hat-converter-1-to-2-row.sh juggler.png
+- image - hat image (1 column)
+- result: hat image (2 column)
+
+* templateol3.png
+template image with frame (1 column) from first message in this topic
+
+* template.svg Layers:
+1. frame 32x32
+   For example you can set preview 32x32 (View>Icon_Preview).
+2. template
+   For the template.png and numbers of frames of a movie.
+3. cleanface
+   Wash your face regularly, take the example of the hedgehogs.
+4. static background
+   For objects that do not depend on the movement of a hedgehog. For
+   example trajectory of the balls.
+5. static hat
+   Hard hats. Contains a group of objects, which you can create a hat,
+   as well as 18 clones centered on the face and eyes hedgehog.
+6. dynamic hat
+   19 different groups to create an animation. Transparent clones
+   allow you to create animations without jerks. Tweening
+   (Inbetweening (from wikipedia)): to simultaneously see the
+   previous, current and next frame.
+
+   Everyone is waiting to support animation in Inkscape.
+
+   If the animation is half of 19, it is logical not to draw the rest,
+   and the clone (1 -> 18, 2 -> 17, 3 -> 16, ...). Nineteenth frame
+   can not be a clone of the first, otherwise you can get a frozen
+   frame of cartoon.
+7. eye
+   For those cases when you want to show his eyes from under hat. Can
+   also be used as a template for the mask.
+8. frame-0.5
+   Frame 31x31 (frame with a border of 0.5 pixels on each side), can
+   be used as a mask (or clip) to trim the protruding portion of the
+   image.
+9. hand
+   Near the hand can be used as an mask.
+10. frame-and-hand
+    Frame 32x32 with hand, can be used as a mask (or clip) to trim the
+    protruding portion of the image.
+11. frame-0.5-and-hand
+    Frame 31x31 (frame with a border of 0.5 pixels on each side) with
+    hand, can be used as a mask (or clip) to trim the protruding
+    portion of the image.
+12. help
+    This text
+
+I will be glad if the template is useful for creating new hats.
