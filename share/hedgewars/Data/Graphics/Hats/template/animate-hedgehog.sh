@@ -16,10 +16,18 @@
 #   You should have received a copy of the GNU General Public License
 #   along with animate-hedgehog.  If not, see <http://www.gnu.org/licenses/>.
 
+# usage:
+# ./animate-hedgehog.sh Idle.png juggler.png
+# - first image - hedgewars image (1 column)
+# - second image - hat (1 column)
+# - result: animated image "juggler.gif"
 
+IDLE=$1
+HAT=$2
+RESULT=`basename $HAT .png`
 
-convert $1 -crop 32x32 +repage tile_%02d.png  # repage remove or set offset (+ or -)  ; strange, but "-repage 32x32+0+4" not used when composite
-convert $2 -crop 32x32 +repage hat_tile_%02d.png  # repage remove or set offset (+ or -)
+convert $IDLE -crop 32x32 +repage tile_%02d.png  # repage remove or set offset (+ or -)  ; strange, but "-repage 32x32+0+4" not used when composite
+convert $HAT -crop 32x32 +repage hat_tile_%02d.png  # repage remove or set offset (+ or -)
 
 rm *tile_19.png *tile_2?.png *tile_3?.png
 
@@ -36,7 +44,7 @@ done
 
 
 
-convert -delay 20 -dispose Background -loop 0 result_tile*.png animated.gif
+convert -delay 20 -dispose Background -loop 0 result_tile*.png $RESULT.gif
 
 rm *tile*png
 
