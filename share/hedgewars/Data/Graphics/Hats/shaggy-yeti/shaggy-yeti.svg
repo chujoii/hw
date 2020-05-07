@@ -16,11 +16,13 @@
    inkscape:export-filename="/home/chujoii/src/hedgewars/shaggy-yeti/shaggy-yeti.png"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    sodipodi:docname="shaggy-yeti.svg"
-   inkscape:version="0.47 r22583"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
    sodipodi:version="0.32"
    id="svg2"
    height="1024"
    width="32">
+  <title
+     id="title49742">shaggy yeti</title>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -37,10 +39,10 @@
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
-     inkscape:window-width="1247"
-     inkscape:window-height="772"
+     inkscape:window-width="1280"
+     inkscape:window-height="779"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="21"
      inkscape:window-maximized="0"
      inkscape:snap-nodes="false"
      inkscape:snap-global="true"
@@ -49,13 +51,6 @@
      inkscape:snap-page="true" />
   <defs
      id="defs4">
-    <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 512 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="32 : 512 : 1"
-       inkscape:persp3d-origin="16 : 341.33333 : 1"
-       id="perspective3117" />
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath5942">
@@ -354,8 +349,40 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title>shaggy yeti</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Roman V. Prikhodchenko (chujoii@gmail.com)</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Roman V. Prikhodchenko (chujoii@gmail.com)</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>hedgewars hat shaggy yeti</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
@@ -391,8 +418,8 @@
      transform="translate(0,-28.362183)"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/chujoii/src/hedgewars/shaggy-yeti/templateol3.png"
-       xlink:href="/home/chujoii/src/hedgewars/shaggy-yeti/templateol3.png"
+       sodipodi:absref="/home/chujoii/project/game/hw/share/hedgewars/Data/Graphics/Hats/template/templateol3.png"
+       xlink:href="../template/templateol3.png"
        width="32"
        height="1024"
        id="image2466"

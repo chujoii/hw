@@ -14,13 +14,15 @@
    height="1024"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.47 r22583"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
    sodipodi:docname="cosmonaut.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:export-filename="/home/chujoii/src/hedgewars/cosmonaut/cosmonaut.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
    version="1.1">
+  <title
+     id="title9965">cosmonaut</title>
   <defs
      id="defs4">
     <linearGradient
@@ -626,34 +628,6 @@
          inkscape:tile-x0="14.406228"
          inkscape:tile-y0="13.9143" />
     </clipPath>
-    <inkscape:perspective
-       id="perspective5388"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 0.5 : 1"
-       sodipodi:type="inkscape:persp3d" />
-    <inkscape:perspective
-       id="perspective5388-7"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 0.5 : 1"
-       sodipodi:type="inkscape:persp3d" />
-    <inkscape:perspective
-       id="perspective5388-5"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 0.5 : 1"
-       sodipodi:type="inkscape:persp3d" />
-    <inkscape:perspective
-       id="perspective5388-3"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 0.5 : 1"
-       sodipodi:type="inkscape:persp3d" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3891"
@@ -719,10 +693,10 @@
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1247"
-     inkscape:window-height="772"
+     inkscape:window-width="1280"
+     inkscape:window-height="779"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="21"
      inkscape:window-maximized="0"
      inkscape:snap-nodes="false"
      inkscape:snap-global="true"
@@ -730,27 +704,33 @@
     <sodipodi:guide
        position="11.017189,1009.4936"
        orientation="-0.14044141,0.99008899"
-       id="guide3150" />
+       id="guide3150"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="15.250071,1020.8163"
        orientation="-0.93668537,0.35017214"
-       id="guide3152" />
+       id="guide3152"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="12.193801,1012.641"
        orientation="-0.73877692,-0.67395005"
-       id="guide3154" />
+       id="guide3154"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="-5.3365962,1010.1722"
        orientation="-0.14044141,0.99008899"
-       id="guide3156" />
+       id="guide3156"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="8.6490165,1012.0896"
        orientation="-0.93668537,0.35017214"
-       id="guide3158" />
+       id="guide3158"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="7.4915649,1008.9935"
        orientation="-0.73877692,-0.67395005"
-       id="guide3160" />
+       id="guide3160"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -760,8 +740,41 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title>cosmonaut</dc:title>
+        <dc:date />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Roman V. Prikhodchenko (chujoii@gmail.com)</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Roman V. Prikhodchenko (chujoii@gmail.com)</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>hedgewars hat cosmonaut</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
@@ -771,13 +784,13 @@
      style="display:none"
      transform="translate(0,-28.362168)">
     <image
-       sodipodi:absref="/home/chujoii/src/hedgewars/cosmonaut/templateol3.png"
-       xlink:href="templateol3.png"
-       y="28.361101"
-       x="-0.0015110926"
-       id="image2466"
+       sodipodi:absref="/home/chujoii/project/game/hw/share/hedgewars/Data/Graphics/Hats/template/templateol3.png"
+       xlink:href="../template/templateol3.png"
+       width="32"
        height="1024"
-       width="32" />
+       id="image2466"
+       x="-0.0015110926"
+       y="28.361101" />
     <path
        style="fill:#20ff00;fill-opacity:1;fill-rule:nonzero;stroke:#464646;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="path8402"
@@ -2019,14 +2032,14 @@
        style="fill:url(#linearGradient4583);fill-opacity:1;fill-rule:nonzero;stroke:#030000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
     <text
        xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Arial;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        x="63.926907"
        y="625.58398"
-       id="text4653"
-       sodipodi:linespacing="100%"><tspan
+       id="text4653"><tspan
          sodipodi:role="line"
          id="tspan4655"
          x="63.926907"
-         y="625.58398">clones disconnected from parent object :( for illuminator</tspan></text>
+         y="625.58398"
+         style="font-size:16px;line-height:1">clones disconnected from parent object :( for illuminator</tspan></text>
   </g>
 </svg>

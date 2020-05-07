@@ -14,13 +14,15 @@
    height="1024"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="brain-slugs.svg"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="brain-slug.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:export-filename="/home/chujoii/project/hedgewars/Hats/brain-slugs/tmp.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
    version="1.1">
+  <title
+     id="title3861">brain slug</title>
   <defs
      id="defs4">
     <linearGradient
@@ -46,17 +48,6 @@
          id="stop3228" />
     </linearGradient>
     <linearGradient
-       id="linearGradient3867">
-      <stop
-         style="stop-color:#7a0072;stop-opacity:1;"
-         offset="0"
-         id="stop3869" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0;"
-         offset="1"
-         id="stop3871" />
-    </linearGradient>
-    <linearGradient
        id="linearGradient3859">
       <stop
          style="stop-color:#780070;stop-opacity:1;"
@@ -67,252 +58,6 @@
          offset="1"
          id="stop3863" />
     </linearGradient>
-    <linearGradient
-       id="linearGradient3847">
-      <stop
-         style="stop-color:#7fff00;stop-opacity:1;"
-         offset="0"
-         id="stop3849" />
-      <stop
-         id="stop3857"
-         offset="0.87997842"
-         style="stop-color:#6de200;stop-opacity:1;" />
-      <stop
-         style="stop-color:#53c600;stop-opacity:1;"
-         offset="1"
-         id="stop3851" />
-    </linearGradient>
-    <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 526.18109 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="744.09448 : 526.18109 : 1"
-       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
-       id="perspective10" />
-    <inkscape:perspective
-       id="perspective2464"
-       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
-       inkscape:vp_z="744.09448 : 526.18109 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 526.18109 : 1"
-       sodipodi:type="inkscape:persp3d" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3847"
-       id="radialGradient3855"
-       cx="375.60349"
-       cy="68.8703"
-       fx="375.60349"
-       fy="68.8703"
-       r="8.8897352"
-       gradientTransform="matrix(0.4777088,0.4626703,-0.6494636,0.6705736,241.48863,-153.45864)"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3859"
-       id="linearGradient3865"
-       x1="378.35413"
-       y1="44.154514"
-       x2="378.20087"
-       y2="42.262913"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3867"
-       id="linearGradient3873"
-       x1="382.85297"
-       y1="42.799053"
-       x2="381.21967"
-       y2="42.156796"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3867"
-       id="linearGradient3903"
-       gradientUnits="userSpaceOnUse"
-       x1="382.85297"
-       y1="42.799053"
-       x2="381.21967"
-       y2="42.156796" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3859"
-       id="linearGradient3905"
-       gradientUnits="userSpaceOnUse"
-       x1="378.35413"
-       y1="44.154514"
-       x2="378.20087"
-       y2="42.262913" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3847"
-       id="radialGradient3907"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.4777088,0.4626703,-0.6494636,0.6705736,241.48863,-153.45864)"
-       cx="375.60349"
-       cy="68.8703"
-       fx="375.60349"
-       fy="68.8703"
-       r="8.8897352" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3867"
-       id="linearGradient5431"
-       gradientUnits="userSpaceOnUse"
-       x1="382.85297"
-       y1="42.799053"
-       x2="381.21967"
-       y2="42.156796" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3859"
-       id="linearGradient5433"
-       gradientUnits="userSpaceOnUse"
-       x1="378.35413"
-       y1="44.154514"
-       x2="378.20087"
-       y2="42.262913" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3847"
-       id="radialGradient5435"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.4777088,0.4626703,-0.6494636,0.6705736,241.48863,-153.45864)"
-       cx="375.60349"
-       cy="68.8703"
-       fx="375.60349"
-       fy="68.8703"
-       r="8.8897352" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3847"
-       id="radialGradient5441"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.4777088,0.4626703,-0.6494636,0.6705736,241.48863,-185.45864)"
-       cx="375.60349"
-       cy="68.8703"
-       fx="375.60349"
-       fy="68.8703"
-       r="8.8897352" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3867"
-       id="linearGradient5461"
-       gradientUnits="userSpaceOnUse"
-       x1="382.85297"
-       y1="42.799053"
-       x2="381.21967"
-       y2="42.156796" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3859"
-       id="linearGradient5463"
-       gradientUnits="userSpaceOnUse"
-       x1="378.35413"
-       y1="44.154514"
-       x2="378.20087"
-       y2="42.262913" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3847"
-       id="radialGradient5465"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.4777088,0.4626703,-0.6494636,0.6705736,241.48863,-185.45864)"
-       cx="375.60349"
-       cy="68.8703"
-       fx="375.60349"
-       fy="68.8703"
-       r="8.8897352" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3859"
-       id="linearGradient2466"
-       gradientUnits="userSpaceOnUse"
-       x1="379.12967"
-       y1="46.896721"
-       x2="379.48001"
-       y2="43.827301" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3867"
-       id="linearGradient2468"
-       gradientUnits="userSpaceOnUse"
-       x1="384.5835"
-       y1="44.439251"
-       x2="381.74786"
-       y2="43.004692" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3867"
-       id="linearGradient3252"
-       gradientUnits="userSpaceOnUse"
-       x1="384.5835"
-       y1="44.439251"
-       x2="381.74786"
-       y2="43.004692" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3859"
-       id="linearGradient3254"
-       gradientUnits="userSpaceOnUse"
-       x1="379.12967"
-       y1="46.896721"
-       x2="379.48001"
-       y2="43.827301" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3867"
-       id="linearGradient3260"
-       gradientUnits="userSpaceOnUse"
-       x1="384.5835"
-       y1="44.439251"
-       x2="381.74786"
-       y2="43.004692" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3859"
-       id="linearGradient3262"
-       gradientUnits="userSpaceOnUse"
-       x1="379.12967"
-       y1="46.896721"
-       x2="379.48001"
-       y2="43.827301" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3867"
-       id="linearGradient3270"
-       gradientUnits="userSpaceOnUse"
-       x1="384.5835"
-       y1="44.439251"
-       x2="381.74786"
-       y2="43.004692" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3859"
-       id="linearGradient3272"
-       gradientUnits="userSpaceOnUse"
-       x1="379.12967"
-       y1="46.896721"
-       x2="379.48001"
-       y2="43.827301" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3859"
-       id="linearGradient3278"
-       gradientUnits="userSpaceOnUse"
-       x1="379.12967"
-       y1="46.896721"
-       x2="379.48001"
-       y2="43.827301" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3859"
-       id="linearGradient3288"
-       gradientUnits="userSpaceOnUse"
-       x1="379.48001"
-       y1="44.582291"
-       x2="379.48001"
-       y2="42.865181" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3224"
@@ -817,71 +562,6 @@
        y1="44.582291"
        x2="379.48001"
        y2="42.865181" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3655"
-       id="radialGradient4211"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.006662,-0.09422392,0.04823942,1.0273389,-386.74784,386.99383)"
-       cx="381.51486"
-       cy="48.116875"
-       fx="381.51486"
-       fy="48.116875"
-       r="2.1704648" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3655"
-       id="radialGradient4215"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.006662,-0.09422392,0.04823942,1.0273389,-386.74784,419.97746)"
-       cx="381.51486"
-       cy="48.116875"
-       fx="381.51486"
-       fy="48.116875"
-       r="2.1704648" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3655"
-       id="radialGradient4219"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.006662,-0.09422392,0.04823942,1.0273389,-386.74784,450.96109)"
-       cx="381.51486"
-       cy="48.116875"
-       fx="381.51486"
-       fy="48.116875"
-       r="2.1704648" />
-    <inkscape:perspective
-       id="perspective3843"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 0.5 : 1"
-       sodipodi:type="inkscape:persp3d" />
-    <inkscape:perspective
-       id="perspective3366"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 0.5 : 1"
-       sodipodi:type="inkscape:persp3d" />
-    <inkscape:perspective
-       id="perspective3059"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 0.5 : 1"
-       sodipodi:type="inkscape:persp3d" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3655-4"
-       id="radialGradient3050-5"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.006662,-0.09422392,0.04823942,1.0273389,-386.74784,34.960978)"
-       cx="381.51486"
-       cy="48.116875"
-       fx="381.51486"
-       fy="48.116875"
-       r="2.1704648" />
     <linearGradient
        id="linearGradient3655-4">
       <stop
@@ -929,15 +609,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.375"
-     inkscape:cx="21.998417"
+     inkscape:cx="-1.957627"
      inkscape:cy="447.99048"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
-     inkscape:window-width="1247"
-     inkscape:window-height="740"
+     inkscape:window-width="1280"
+     inkscape:window-height="779"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="21"
      inkscape:window-maximized="0"
      inkscape:snap-global="false" />
   <metadata
@@ -948,8 +628,41 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title>brain slug</dc:title>
+        <dc:date />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Roman V. Prikhodchenko (chujoii@gmail.com)</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Roman V. Prikhodchenko (chujoii@gmail.com)</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>hedgewars hat brain slug</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
@@ -960,13 +673,13 @@
      transform="translate(0,-28.362183)"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/chujoii1/project/hedgewars/Hats/0_template/templateol3.png"
-       xlink:href="../0_template/templateol3.png"
-       width="32"
-       height="1024"
-       id="image2466"
+       sodipodi:absref="/home/chujoii/project/game/hw/share/hedgewars/Data/Graphics/Hats/template/templateol3.png"
+       xlink:href="../template/templateol3.png"
+       y="28.363876"
        x="0.00032372802"
-       y="28.363876" />
+       id="image2466"
+       height="1024"
+       width="32" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1169,12 +882,13 @@
      style="display:inline"
      sodipodi:insensitive="true">
     <image
+       sodipodi:absref="/home/chujoii/project/game/hw/share/hedgewars/Data/Graphics/Hats/brain-slug/eye.png"
+       xlink:href="/home/chujoii/project/game/hw/share/hedgewars/Data/Graphics/Hats/brain-slug/eye.png"
        y="588.99622"
        x="14.998417"
        id="image3368"
        height="12"
-       width="14"
-       xlink:href="file:///home/chujoii/project/hedgewars/Hats/brain-slugs/eye.png" />
+       width="14" />
   </g>
   <g
      inkscape:groupmode="layer"
