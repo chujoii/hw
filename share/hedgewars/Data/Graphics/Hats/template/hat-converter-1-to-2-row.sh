@@ -16,9 +16,12 @@
 #   You should have received a copy of the GNU General Public License
 #   along with hat-converter-1-to-2-row.sh.  If not, see <http://www.gnu.org/licenses/>.
 
+# usage:
+# ./hat-converter-1-to-2-row.sh juggler.png
+# - image - hat image (1 column)
+# - result: hat image (2 column)
+
 convert $1 -crop 32x512 tile_%d.png
-mv $1 original_$1
+
 convert tile_* +append $1
 rm tile*png
-# mkdir -p ~/.hedgewars/Data/Graphics/Hats
-# cp $1 ~/.hedgewars/Data/Graphics/Hats
