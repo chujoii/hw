@@ -21,7 +21,7 @@
 # - image - hat image (1 column)
 # - result: hat image (2 column)
 
-convert $1 -crop 32x512 tile_%d.png
+convert -type TrueColorAlpha $1 -crop 32x512 tile_%d.png
 
-convert tile_* +append $1
+convert -type TrueColorAlpha tile_* +append $1
 rm tile*png
