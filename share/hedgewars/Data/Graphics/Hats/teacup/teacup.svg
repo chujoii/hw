@@ -105,11 +105,11 @@
     <image
        sodipodi:absref="/home/chujoii/project/game/hw/share/hedgewars/Data/Graphics/Hats/template/templateol3.png"
        xlink:href="../template/templateol3.png"
-       y="28.362183"
-       x="1.7347235e-18"
-       id="image2466"
+       width="32"
        height="1024"
-       width="32" />
+       id="image2466"
+       x="1.7347235e-18"
+       y="28.362183" />
     <path
        style="fill:none;stroke:#258ff0;stroke-width:0.5;stroke-linejoin:round;stroke-miterlimit:10.43299961;stroke-opacity:0;stroke-dasharray:none;stroke-dashoffset:0"
        d="m 355.21392,58.741246 3.5393,3.99458"
