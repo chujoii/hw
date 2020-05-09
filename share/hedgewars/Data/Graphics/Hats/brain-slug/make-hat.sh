@@ -24,7 +24,7 @@
 #
 # close mouth (display:none)
 cp brain-slug.svg tmp.svg
-perl -0777 -i -pe 's/(inkscape:label="mouth"\n[^"]*)style="display:inline"/\1style="display:none"/igs' tmp.svg
+perl -0777 -i -pe 's/(inkscape:label="mouth"\n[^"]*)style="display:inline"/$1style="display:none"/igs' tmp.svg
 ../template/rasterisation-hat.sh 'tmp' '' 'scif_BrainSlug'
 
 # open mouth

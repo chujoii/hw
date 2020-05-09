@@ -34,7 +34,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="10.56862"
-     inkscape:cx="22.09015"
+     inkscape:cx="38.790533"
      inkscape:cy="680.56926"
      inkscape:document-units="px"
      inkscape:current-layer="layer7"
@@ -694,11 +694,14 @@
         </dc:rights>
         <dc:subject>
           <rdf:Bag>
-            <rdf:li>hedgewars hat dragon</rdf:li>
+            <rdf:li>hedgewars hat dragon and laminaria hat</rdf:li>
           </rdf:Bag>
         </dc:subject>
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+        <dc:description>A moustache without a dragon
+is the same as a moustache with a dragon,
+only without a dragon.</dc:description>
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
