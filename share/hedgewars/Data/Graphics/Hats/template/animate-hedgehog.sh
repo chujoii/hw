@@ -33,14 +33,36 @@ rm *tile_19.png *tile_2?.png *tile_3?.png
 
 
 
-for i in tile*.png
-do
-  echo $i
-  convert -size 32x36 xc:none\
-      $i     -geometry +0+4 -composite \
-      hat_$i -geometry +0+0 -composite \
-      result_$i
-done
+if [ ! -f "hat_tile_01.png" ]; then
+    echo "static hat"
+    COUNTER=0
+    for i in tile*.png
+    do
+	echo $i
+	GEOMETRY='+0+0'
+	if [ $COUNTER -eq 2 ] || [ $COUNTER -eq 7 ] || [ $COUNTER -eq 12 ]; then
+	    GEOMETRY='+0+1'
+	fi
+	if [ $COUNTER -eq 16 ]; then
+	    GEOMETRY='+0-1'
+	fi
+	convert -size 32x36 xc:none\
+		$i     -geometry +0+4 -composite \
+		hat_tile_00.png -geometry $GEOMETRY -composite \
+		result_$i
+	COUNTER=$((COUNTER+1))
+    done
+else
+    echo "dynamic hat"
+    for i in tile*.png
+    do
+	echo $i
+	convert -size 32x36 xc:none\
+		$i     -geometry +0+4 -composite \
+		hat_$i -geometry +0+0 -composite \
+		result_$i
+    done
+fi
 
 
 
