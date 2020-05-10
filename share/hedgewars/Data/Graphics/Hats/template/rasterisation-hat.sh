@@ -14,9 +14,9 @@ SRC=$1
 EXPORT_ONLY=$2
 OUT=$3
 
-inkscape --vacuum-defs $SRC.svg
-sed -r -i -e 's/xlink:href="[^"]*templateol3.png"/xlink:href="..\/template\/templateol3.png"/g' $SRC.svg
-sed -r -i -e 's/sodipodi:absref="[^"]*templateol3.png"/sodipodi:absref="\/home\/chujoii\/project\/game\/hw\/share\/hedgewars\/Data\/Graphics\/Hats\/template\/templateol3.png"/g' $SRC.svg
+#inkscape --vacuum-defs $SRC.svg
+#sed -r -i -e 's/xlink:href="[^"]*templateol3.png"/xlink:href="..\/template\/templateol3.png"/g' $SRC.svg
+#sed -r -i -e 's/sodipodi:absref="[^"]*templateol3.png"/sodipodi:absref="\/home\/chujoii\/project\/game\/hw\/share\/hedgewars\/Data\/Graphics\/Hats\/template\/templateol3.png"/g' $SRC.svg
 
 
 inkscape --file=$SRC.svg $EXPORT_ONLY --export-png=$OUT".png"
