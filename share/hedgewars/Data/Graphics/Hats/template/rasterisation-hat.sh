@@ -19,7 +19,7 @@ sed -r -i -e 's/xlink:href="[^"]*templateol3.png"/xlink:href="..\/template\/temp
 sed -r -i -e 's/sodipodi:absref="[^"]*templateol3.png"/sodipodi:absref="\/home\/chujoii\/project\/game\/hw\/share\/hedgewars\/Data\/Graphics\/Hats\/template\/templateol3.png"/g' $SRC.svg
 
 
-inkscape --file=$SRC.svg --export-area-page $EXPORT_ONLY --export-png=$OUT".png"
+inkscape --file=$SRC.svg $EXPORT_ONLY --export-png=$OUT".png"
 if [ ! -z "$4" ]; then
     ../template/animate-hedgehog.sh ../template/Idle.png $OUT".png"
 fi

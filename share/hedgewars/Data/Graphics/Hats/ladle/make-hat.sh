@@ -1,3 +1,3 @@
 #!/bin/sh
 
-../template/rasterisation-hat.sh 'ladle' '' 'dish_Ladle'
+../template/rasterisation-hat.sh 'ladle' '--export-area=0:992:32:1024' 'dish_Ladle'

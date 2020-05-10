@@ -1,3 +1,3 @@
 #!/bin/sh
 
-../template/rasterisation-hat.sh 'fish' '' 'zoo_fish'
+../template/rasterisation-hat.sh 'fish' '--export-area-page' 'zoo_fish'

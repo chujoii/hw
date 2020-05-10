@@ -1,3 +1,3 @@
 #!/bin/sh
 
-../template/rasterisation-hat.sh 'sleep-walker' '' 'Sleepwalker'
+../template/rasterisation-hat.sh 'sleep-walker' '--export-area-page' 'Sleepwalker'

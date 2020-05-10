@@ -1,3 +1,3 @@
 #!/bin/sh
 
-../template/rasterisation-hat.sh 'ring-Sadako-Yamamura' '' 'horror_ring'
+../template/rasterisation-hat.sh 'ring-Sadako-Yamamura' '--export-area-page' 'horror_ring'

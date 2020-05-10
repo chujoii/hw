@@ -13,8 +13,8 @@
 # Inkscape export only last selected
 #
 # fixme:
-#../template/rasterisation-hat.sh 'brain-slug' '--export-id-only --export-id="layer2;layer4"' 'scif_BrainSlug'
-#../template/rasterisation-hat.sh 'brain-slug' '--export-id-only --export-id="layer2;layer3;layer4"' 'scif_BrainSlug2'
+#../template/rasterisation-hat.sh 'brain-slug' '--export-area-page --export-id-only --export-id="layer2;layer4"' 'scif_BrainSlug'
+#../template/rasterisation-hat.sh 'brain-slug' '--export-area-page --export-id-only --export-id="layer2;layer3;layer4"' 'scif_BrainSlug2'
 
 
 
@@ -25,7 +25,7 @@
 # close mouth (display:none)
 cp brain-slug.svg tmp.svg
 perl -0777 -i -pe 's/(inkscape:label="mouth"\n[^"]*)style="display:inline"/$1style="display:none"/igs' tmp.svg
-../template/rasterisation-hat.sh 'tmp' '' 'scif_BrainSlug'
+../template/rasterisation-hat.sh 'tmp' '--export-area-page' 'scif_BrainSlug'
 
 # open mouth
-../template/rasterisation-hat.sh 'brain-slug' '' 'scif_BrainSlug2'
+../template/rasterisation-hat.sh 'brain-slug' '--export-area-page' 'scif_BrainSlug2'

@@ -1,3 +1,3 @@
 #!/bin/sh
 
-../template/rasterisation-hat.sh 'cosmonaut' '' 'scif_cosmonaut'
+../template/rasterisation-hat.sh 'cosmonaut' '--export-area-page' 'scif_cosmonaut'

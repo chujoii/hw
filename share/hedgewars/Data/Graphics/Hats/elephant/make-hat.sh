@@ -1,3 +1,3 @@
 #!/bin/sh
 
-../template/rasterisation-hat.sh 'elephant' '' 'zoo_Ganesha_elephant'
+../template/rasterisation-hat.sh 'elephant' '--export-area-page' 'zoo_Ganesha_elephant'

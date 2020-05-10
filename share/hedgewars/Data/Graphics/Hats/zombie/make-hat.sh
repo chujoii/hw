@@ -1,3 +1,3 @@
 #!/bin/sh
 
-../template/rasterisation-hat.sh 'zombie' '' 'Zombie'
+../template/rasterisation-hat.sh 'zombie' '--export-area-page' 'Zombie'
