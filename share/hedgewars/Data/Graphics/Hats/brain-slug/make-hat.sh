@@ -23,9 +23,12 @@
 # -0777 causes perl to slurp files whole https://perldoc.perl.org/perlrun.html
 #
 # close mouth (display:none)
-cp brain-slug.svg tmp.svg
-perl -0777 -i -pe 's/(inkscape:label="mouth"\n[^"]*)style="display:inline"/$1style="display:none"/igs' tmp.svg
-../template/rasterisation-hat.sh 'tmp' '--export-area-page' 'scif_BrainSlug'
+#TMP=`mktemp --suffix='.svg'`
+TMP='tmp.svg'
+cp brain-slug.svg $TMP
+perl -0777 -i -pe 's/(inkscape:label="mouth"\n[^"]*)style="display:inline"/$1style="display:none"/igs' $TMP
+../template/rasterisation-hat.sh ${TMP%.*} '--export-area-page' 'scif_BrainSlug'
+rm $TMP
 
 # open mouth
 ../template/rasterisation-hat.sh 'brain-slug' '--export-area-page' 'scif_BrainSlug2'
