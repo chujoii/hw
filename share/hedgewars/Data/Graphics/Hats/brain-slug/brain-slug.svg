@@ -883,8 +883,8 @@
      sodipodi:insensitive="true">
     <image
        sodipodi:absref="/home/chujoii/project/game/hw/share/hedgewars/Data/Graphics/Hats/brain-slug/eye.png"
-       xlink:href="/home/chujoii/project/game/hw/share/hedgewars/Data/Graphics/Hats/brain-slug/eye.png"
-       y="588.99622"
+       xlink:href="eye.png"
+       y="587.99622"
        x="14.998417"
        id="image3368"
        height="12"
