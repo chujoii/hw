@@ -1,3 +1,32 @@
+* make-hat.sh
+make-hat.sh script description
+- if hat does not have make-hat.sh script in directory ---
+  hat not ready
+- many hats contain simple shell script, that simple do
+  "inkscape --export-area-page file.svg ../FileName.png"
+  (creates from file.svg new file with the name,
+  that is used in the current hedgewars version)
+- static hats, with one frame 32x32, use "--export-area=X1:Y1:X2:Y2"
+  (instead of --export-area-page)
+- bivariate (multilayer) hats contains make-hat.sh with Perl/Sed
+  script, which ON and OFF some layers or filters for create two
+  different hat:
+  - brain-slug/make-hat.sh ->
+    - scif_BrainSlug.png
+    - scif_BrainSlug2.png
+  - dragon/make-hat.sh ->
+    - Dragon.png
+    - Laminaria.png
+  - rag-doll/make-hat.sh ->
+    - rag-doll-2.png
+    - rag-doll-4.png
+  - sauce-boat/make-hat.sh ->
+    - dish_SauceBoatSilver.png
+    - dish_SauceBoatGold.png
+  - shaggy-yeti/make-hat.sh ->
+    - ShaggyYeti.png
+    - zoo_chicken.png
+  
 * animate-hedgehog.sh
 to create an animated gif images (dependency: sh, imagemagic)
 
